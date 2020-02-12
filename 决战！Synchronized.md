@@ -162,3 +162,5 @@ class ObjectMonitor {
 1. 只有一个线程进入临界区，偏向锁
 2. 多个线程交替进入临界区，轻量级锁
 3. 多线程同时进入临界区，重量级锁
+
+还有些东西：https://www.jianshu.com/p/c13c0a80dbca
